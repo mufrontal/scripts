@@ -49,7 +49,7 @@ setConnectCheckTime(value) -> set connected check time
 
 
 ###################################################################################################################################
-EU FARIA A PORCENTAGEM EM UM SERVIDOR HARD                                                                                        #
+EU FARIA A PORCENTAGEM EM UM SERVIDOR HARD (Você já tem a na interface)                                                           #
 ###################################################################################################################################
 getNextExp() -> get next experience level             	
 setNextExp(value) -> set next experience level        	
