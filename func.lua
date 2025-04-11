@@ -1,8 +1,6 @@
 ###################################################################################################################################
 NÃO TEM NEM GET E NEM SET                                                                                                         #
 ###################################################################################################################################
-getReset() -> get resets       -> (Reset e MReset)
-setReset(value) -> set resets  -> (Reset e MReset)
 
 getDefensePvP() -> get value defense pvp of the player
 setDefensePvP(value) -> set valeu defense pvp of the player
@@ -46,9 +44,6 @@ setAttackDamageMaxRight(value) -> set attack damage max right
 getMagicSkill() -> get magic skill player are using -> Usaria para enviar algum pacote pro cliente
 setMagicSkill(value) -> set magic skill
 
-getKillerType() -> get killer type 
-setKillerType(value) -> set killer type
-
 getConnectCheckTime() -> get connected check time
 setConnectCheckTime(value) -> set connected check time
 
@@ -64,6 +59,8 @@ setMasterExperience(value) -> set experience master level
 ###################################################################################################################################
 ESSAS FUNÇÕES VOCÊ JÁ TEM O GET, MAS NÃO O SET                                                                                    #
 ###################################################################################################################################
+getReset() -> get resets       -> (Reset e MReset)
+setReset(value) -> set resets  -> (Reset e MReset)
 getLife() -> get life player in real time
 setLife(value) -> set life player
 getMana() -> get mana player in real time
@@ -82,7 +79,8 @@ getMaxShield() -> get max shield player
 setMaxShield(value) -> set max shield
 getDefense() -> get value defense of the player
 setDefense(value) -> set value defense 
-
+getKillerType() -> get killer type 
+setKillerType(value) -> set killer type
 
 ###################################################################################################################################
 POSSIVELMENTE EXISTEM                                                                                                             #
